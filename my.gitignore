@@ -1,0 +1,7 @@
+#patient data was never uploaded
+*.csv
+*.xlsx
+
+#python junk
+__pycache__/
+.ipynb_checkpoints/
